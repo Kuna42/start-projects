@@ -8,18 +8,22 @@ Hier werden die Aufgaben alle angezeigt.
 
 Wenn ihr euren Code hinzufügen wollt, öffnet dazu eine Pull request.
 
-Zudem solltet ihr in dem Namen der Datei am Anfang euren Github-namen einbauen. Z. B. "Kuna42_[dateiname]"
+Zudem solltet ihr in dem Namen der Datei 
+am Anfang euren Github-namen einbauen. Z. B. "Kuna42_[dateiname]"
 
 ### Richtlinien
 
-Meine Anforderungen an euren Code sind dazu da, damit ich nicht Kryptografie studiert haben muss, um ihn zu entziffern.
+Meine Anforderungen an euren Code sind dazu da, 
+damit ich nicht Kryptografie studiert haben muss, um ihn zu entziffern.
 
 #### für Python:
 
-- lesbarer Code _(dazu zählen auch gute Variablennamen, die für einen Außenstehenden verständlich sind)_
+- lesbarer Code _(dazu zählen auch gute Variablennamen, 
+  die für einen Außenstehenden verständlich sind)_
 - gut dokumentiert
 - [PEP 8](https://www.python.org/dev/peps/pep-0008/) 
-  _(oder wenn es als [Lied](https://www.youtube.com/watch?v=hgI0p1zf31k) besser zu verstehen ist.)_
+  _(oder wenn es als [Lied](https://www.youtube.com/watch?v=hgI0p1zf31k) 
+  besser zu verstehen ist.)_
 - Aufgabenstellung ist erfüllt
 
 ### Aufgaben:
@@ -36,3 +40,9 @@ sollten keine persönlichen Daten dabei stehen._
 Das Ziel ist ein Programm, welches einen beliebig seitigen Würfel
 werfen lässt. Dieses kann mit einem grafisch dargestellten Würfel
 umgesetzt werden.
+
+##### 003 Tic Tac Toe
+Bei dieser Aufgabe geht es um ein Programm, womit man gegen den
+Rechner Tic Tac Toe spielen kann. Dies kann, wenn man sich 
+herausfordern möchte mit einem lernenden Algorithmus geschrieben
+werden.
